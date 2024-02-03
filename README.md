@@ -20,6 +20,10 @@ The Zoho API is a powerful tool that allows developers to interact with various 
 
 To get started with the Zoho API, you will need to sign up for a Zoho account and obtain an API key. Detailed instructions on how to do this can be found in the [Zoho API Documentation](https://api.zoho.com/docs/).
 
+## Zoho and Shopify Integration
+
+This documentation also contains methods explaining easy ways to stablish a connection between zoho CRM And Shopify
+
 ## DI API for SAP Business One
 
 The DI API (Data Interface API) is a specific component of the Zoho API that enables developers to integrate and interact with the SAP Business One Data Interface. This section of the documentation provides detailed information on how to use the DI API and its various functionalities.
